@@ -128,8 +128,7 @@ HTML_PAGE = """
   <!-- Bigger Video Logo -->
   <div class="logo-video">
     <video autoplay muted loop playsinline>
-      <source src="https://raw.githubusercontent.com/hassanrajput7626/Paid-app/main/IMG-20251006-WA0262.jpg" type="video/mp4">
-      Your browser does not support the video tag.
+      background: url('https://raw.githubusercontent.com/hassanrajput7626/Paid-app/main/IMG-20251006-WA0262.jpg') 
     </video>
   </div>
 
