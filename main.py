@@ -134,7 +134,7 @@ HTML_PAGE = """
   </div>
 
   <!-- Logo Name -->
-  <div class="logo">Loading Please Wait</div>
+  <div class="logo">BRAND X AWARA X PATHAN</div>
 
   <!-- Smaller Loader -->
   <div class="loader">
