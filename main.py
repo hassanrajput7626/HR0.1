@@ -21,7 +21,7 @@ HTML_PAGE = """
       justify-content: center;
       background: radial-gradient(circle at center, #0d0d0d, #000);
       font-family: 'Poppins', sans-serif;
-      color: #fff;
+      color: black;
       overflow: hidden;
       text-align: center;
     }
